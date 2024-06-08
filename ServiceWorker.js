@@ -1,9 +1,9 @@
 const cacheName = "rizacankayabasi-flappyTest-1.0";
 const contentToCache = [
-    "Build/flappy.loader.js",
-    "Build/flappy.framework.js",
-    "Build/flappy.data",
-    "Build/flappy.wasm",
+    "Build/FlappyTest.loader.js",
+    "Build/FlappyTest.framework.js",
+    "Build/FlappyTest.data",
+    "Build/FlappyTest.wasm",
     "TemplateData/style.css"
 
 ];
